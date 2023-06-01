@@ -84,10 +84,10 @@ ul
   <td width=387 valign=top style='width:289.95pt;padding:0in 5.4pt 0in 5.4pt;
   height:72.9pt'>
   <p class=MsoNormal align=center style='text-align:center'><img border=0
-  width=57 height=60 id="Picture 1430808555" src="Samanvitha.fld/image001.png"
+  width=57 height=60 id="Picture 1430808555" src="https://github.com/Sburle43/samanvitha/blob/8f191e3855029b7691f607d6d946539f23a31b36/Picture1.png"
   alt="Google Data Analytics Professional Certificate - Credly">            <img
   border=0 width=61 height=59 id="Picture 270358664"
-  src="Samanvitha.fld/image002.png"
+  src="https://github.com/Sburle43/samanvitha/blob/8f191e3855029b7691f607d6d946539f23a31b36/Picture2.png"
   alt="IBM Certified Solution Architect - Cloud Pak for Data V2.5 - Credly"></p>
   </td>
  </tr>
