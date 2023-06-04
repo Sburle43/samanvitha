@@ -2464,7 +2464,7 @@ style='mso-bidi-font-weight:normal'><span style='font-size:10.5pt;mso-fareast-fo
 Calibri;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
 color:black;mso-themecolor:text1;letter-spacing:.05pt'><span
 style='mso-spacerun:yes'> </span><span style='mso-spacerun:yes'>  </span>August
-2021 – August 2023</span></b><span style='font-size:10.5pt;mso-bidi-font-family:
+2021 – May 2023</span></b><span style='font-size:10.5pt;mso-bidi-font-family:
 Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='text-align:justify;mso-pagination:none'><span
